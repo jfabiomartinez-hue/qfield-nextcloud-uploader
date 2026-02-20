@@ -6,25 +6,31 @@ QGIS / QField plugin for automated upload and structured organization of field a
 
 ## Plugin Interface
 
-![Plugin UI](plugin_ui.png)
+<img src="plugin_ui.png" width="700">
 
 ---
 
 ## Upload Process
 
-![Upload Progress](upload_progress.png)
+<img src="upload_progress.png" width="700">
 
 ---
 
 ## Dynamic Folder Structure
 
-![Folder Structure](folder_structure.png)
+<img src="folder_structure.png" width="700">
 
 ---
 
 ## Nextcloud Result
 
-![Nextcloud Result](nextcloud_result.png)
+<img src="nextcloud_result.png" width="700">
+
+---
+
+## Description
+
+Plugin for QGIS / QField designed to automate the upload and organization of field attachments (photos, files) to Nextcloud or generic WebDAV servers.
 
 ---
 
@@ -32,26 +38,34 @@ QGIS / QField plugin for automated upload and structured organization of field a
 
 Field workflows often generate large volumes of photos and attachments that must be manually copied, renamed, and organized. This process is error-prone, time-consuming, and inconsistent across teams.
 
+---
+
 ## Key Features
 
-- Automated attachment upload
-- Structured remote folder creation
-- Nextcloud / WebDAV compatibility
-- Retry logic for unstable connections
-- Optimized bulk transfers
-- Designed for real QField workflows
+- Automated attachment upload  
+- Structured remote folder creation  
+- Nextcloud / WebDAV compatibility  
+- Retry logic for unstable connections  
+- Optimized bulk transfers  
+- Designed for real QField workflows  
+
+---
 
 ## Typical Use Cases
 
-- Environmental surveys
-- Forestry operations
-- Field inspections
-- Technical site documentation
-- Any QField-based data collection project
+- Environmental surveys  
+- Forestry operations  
+- Field inspections  
+- Technical site documentation  
+- Any QField-based data collection project  
+
+---
 
 ## Status
 
 Commercial plugin. Demonstrations or evaluation builds available upon request.
+
+---
 
 ## Contact
 
