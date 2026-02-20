@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="80">
+  <img src="icon.png" width="60">
 </p>
 
 # QField Nextcloud Uploader
