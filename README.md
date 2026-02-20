@@ -1,9 +1,32 @@
-# qfield-nextcloud-uploader
-QGIS / QField plugin for automated upload and structured organization of field attachments to Nextcloud / WebDAV servers.
-
 # QField Nextcloud Uploader
 
-Plugin for QGIS / QField designed to automate the upload and organization of field attachments (photos, files) to Nextcloud or generic WebDAV servers.
+QGIS / QField plugin for automated upload and structured organization of field attachments to Nextcloud / WebDAV servers.
+
+---
+
+## Plugin Interface
+
+![Plugin UI](plugin_ui.png)
+
+---
+
+## Upload Process
+
+![Upload Progress](upload_progress.png)
+
+---
+
+## Dynamic Folder Structure
+
+![Folder Structure](folder_structure.png)
+
+---
+
+## Nextcloud Result
+
+![Nextcloud Result](nextcloud_result.png)
+
+---
 
 ## Problem Addressed
 
@@ -33,4 +56,4 @@ Commercial plugin. Demonstrations or evaluation builds available upon request.
 ## Contact
 
 For licensing or demo requests:  
-(your email here)
+jfabiomartinez@gmail.com
