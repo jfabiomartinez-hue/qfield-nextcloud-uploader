@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" width="120">
+</p>
+
 # QField Nextcloud Uploader
 
 QGIS / QField plugin for automated upload and structured organization of field attachments to Nextcloud / WebDAV servers.
